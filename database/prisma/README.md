@@ -10,4 +10,5 @@
 | `sql/`          | SQL complémentaire : triggers d'audit en ajout seul, interdiction de suppression des paiements et reçus validés                               |
 
 Les coefficients officiels ne seront ajoutés au seed qu'après transcription validée de SRC-04 et
-SRC-05 (B4). Aucun taux fiscal ou social ne sera ajouté au seed sans validation (REG-01 à REG-09).
+SRC-05 (B4). Aucun taux fiscal ou social ne sera ajouté au seed sans validation de sa valeur et de sa
+source réglementaire.

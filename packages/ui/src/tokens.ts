@@ -2,7 +2,7 @@
  * Jetons de design partagés Web (Next.js) + Mobile (React Native).
  *
  * Palette NEUTRE provisoire : la charte graphique CSPAD (logo, couleurs institutionnelles)
- * n'a pas été fournie. Voir POINTS_A_VALIDER.md (UI-01).
+ * n'a pas été fournie (à valider).
  * Les couleurs de texte respectent un contraste ≥ 4,5:1 sur leur fond (WCAG AA).
  */
 export const colors = {

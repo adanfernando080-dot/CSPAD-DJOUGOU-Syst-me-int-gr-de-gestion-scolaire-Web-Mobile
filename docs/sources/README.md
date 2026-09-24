@@ -33,7 +33,7 @@ Chaque document est enregistré dans [`MANIFEST.json`](MANIFEST.json) avec son e
 
 **Aucun document source n'a encore été déposé.** Les 7 entrées du manifeste sont au statut
 `ABSENT`. Le socle technique (Phase 1) n'en dépend pas. En revanche, aucune règle métier n'est
-implémentée tant que ces documents manquent. Voir `docs/business-rules/POINTS_A_VALIDER.md`.
+implémentée tant que ces documents manquent. Voir le §5 de `docs/phase-0/RAPPORT_PHASE_0.md`.
 
 ## Ajouter un document
 

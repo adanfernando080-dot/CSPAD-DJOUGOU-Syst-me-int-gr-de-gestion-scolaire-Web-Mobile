@@ -1,7 +1,8 @@
 # Décisions d'architecture (ADR)
 
 Seules des décisions **techniques sans impact métier** figurent ici (§62). Toute décision métier
-passe par `docs/business-rules/POINTS_A_VALIDER.md`.
+est soumise à validation du CSPAD : voir les points ouverts au §5 de
+[`docs/phase-0/RAPPORT_PHASE_0.md`](../phase-0/RAPPORT_PHASE_0.md).
 
 ## ADR-0001 — Monorepo pnpm + Turborepo, à la racine du dépôt
 

@@ -2,7 +2,7 @@
 
 Flux tels que décrits par le prompt maître V3.0. Ils seront **confrontés à la spécification
 V2.0 (SRC-01)** dès sa réception. Les points marqués ⚠ sont ouverts
-(voir `docs/business-rules/POINTS_A_VALIDER.md`).
+(voir le §5 de [`docs/phase-0/RAPPORT_PHASE_0.md`](../phase-0/RAPPORT_PHASE_0.md)).
 
 ## 1. Admission (§15)
 
@@ -65,5 +65,5 @@ flowchart LR
   P[Période de paie] --> C[Composantes propres<br/>à chaque personne] --> R[Règles fiscales et sociales<br/>versionnées, valides à la date] --> B[Bulletin] --> V[Validation] --> L[Clôture]
 ```
 
-⚠ REG-01 à REG-09 : **aucun paramètre validé**. Le calcul sera **refusé** tant qu'une règle
+⚠ Paramètres fiscaux et sociaux (CNSS, ITS, AIB, VPS/PVS…) : **aucun paramètre validé** (B5, A18). Le calcul sera **refusé** tant qu'une règle
 applicable n'a pas été saisie et validée pour la période. Aucune valeur par défaut, aucun taux codé en dur.

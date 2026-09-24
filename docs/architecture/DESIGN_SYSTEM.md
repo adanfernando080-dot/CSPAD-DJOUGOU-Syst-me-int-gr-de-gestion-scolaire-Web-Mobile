@@ -16,7 +16,7 @@ Source unique : `packages/ui/src/tokens.ts`, partagé par le Web et le Mobile.
 - **Mobile :** les jetons sont importés directement dans les `StyleSheet`.
 - **Accessibilité :** un test vérifie un contraste d'au moins 4,5:1 (WCAG AA) pour chaque
   couleur de texte, dans les deux thèmes.
-- **Palette provisoire et neutre :** la charte CSPAD n'a pas été fournie (UI-01).
+- **Palette provisoire et neutre :** la charte CSPAD n'a pas été fournie (à valider).
 
 ## Principes d'interface (à appliquer à partir de la Phase 2)
 
