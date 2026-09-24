@@ -1,0 +1,82 @@
+{
+  "$comment": "Registre des documents sources CSPAD. Ne jamais modifier un fichier source : ajouter une nouvelle version sous un nouveau nom et une nouvelle entrée. Vérification : pnpm sources:verify",
+  "documents": [
+    {
+      "id": "SRC-01",
+      "title": "Spécifications fonctionnelles et techniques V2.0 DÉFINITIVE",
+      "role": "SOURCE MAÎTRESSE (règles métier)",
+      "expectedFileName": "Specifications_fonctionnelles_techniques_CSPAD_DJOUGOU_V2_0_DEFINITIVE.docx",
+      "directory": "specifications",
+      "status": "ABSENT",
+      "file": null,
+      "sha256": null,
+      "receivedAt": null
+    },
+    {
+      "id": "SRC-02",
+      "title": "Projet de cahier des charges CSPAD DJOUGOU",
+      "role": "SOURCE INSTITUTIONNELLE DE RÉFÉRENCE (complémentaire)",
+      "expectedFileName": "PROJET DE CAHIER DE CHARGE_CSPAD_DJOUGOU.docx",
+      "directory": "cahier-des-charges",
+      "status": "ABSENT",
+      "file": null,
+      "sha256": null,
+      "receivedAt": null
+    },
+    {
+      "id": "SRC-03",
+      "title": "Document V2.9 (référence d'architecture et d'organisation du dépôt)",
+      "role": "RÉFÉRENCE D'ARCHITECTURE",
+      "expectedFileName": null,
+      "directory": "architecture",
+      "status": "ABSENT",
+      "file": null,
+      "sha256": null,
+      "receivedAt": null
+    },
+    {
+      "id": "SRC-04",
+      "title": "Image officielle des coefficients 6e / 5e",
+      "role": "SOURCE OFFICIELLE EXCLUSIVE des coefficients (§26)",
+      "expectedFileName": null,
+      "directory": "coefficients-officiels",
+      "status": "ABSENT",
+      "file": null,
+      "sha256": null,
+      "receivedAt": null
+    },
+    {
+      "id": "SRC-05",
+      "title": "Image officielle des coefficients 4e / 3e",
+      "role": "SOURCE OFFICIELLE EXCLUSIVE des coefficients (§26)",
+      "expectedFileName": null,
+      "directory": "coefficients-officiels",
+      "status": "ABSENT",
+      "file": null,
+      "sha256": null,
+      "receivedAt": null
+    },
+    {
+      "id": "SRC-06",
+      "title": "Modèle réel de bulletin de paie CSPAD",
+      "role": "RÉFÉRENCE DE PRÉSENTATION de la paie (§31)",
+      "expectedFileName": null,
+      "directory": "paie-modeles",
+      "status": "ABSENT",
+      "file": null,
+      "sha256": null,
+      "receivedAt": null
+    },
+    {
+      "id": "SRC-07",
+      "title": "Textes réglementaires fiscaux et sociaux (CNSS, ITS, AIB, VPS/PVS…) applicables",
+      "role": "SOURCE RÉGLEMENTAIRE des paramètres de paie versionnés (§32)",
+      "expectedFileName": null,
+      "directory": "reglementaire",
+      "status": "ABSENT",
+      "file": null,
+      "sha256": null,
+      "receivedAt": null
+    }
+  ]
+}

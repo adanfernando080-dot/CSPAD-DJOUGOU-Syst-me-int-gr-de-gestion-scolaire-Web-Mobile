@@ -1,0 +1,10 @@
+packages:
+  - apps/*
+  - packages/*
+
+# Scripts d'installation : refusés par défaut (sécurité de la chaîne d'approvisionnement).
+# @scarf/scarf = télémétrie (swagger-ui) : volontairement bloquée.
+# @swc/core : binaire fourni par dépendance optionnelle, le postinstall n'est pas nécessaire.
+ignoredBuiltDependencies:
+  - '@scarf/scarf'
+  - '@swc/core'

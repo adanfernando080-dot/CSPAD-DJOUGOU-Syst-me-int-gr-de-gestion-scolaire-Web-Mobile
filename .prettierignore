@@ -1,0 +1,10 @@
+node_modules
+dist
+.next
+.expo
+.turbo
+coverage
+pnpm-lock.yaml
+database/prisma/migrations
+# Documents sources : ne JAMAIS reformater (intégrité vérifiée par scripts/verify-sources.mjs)
+docs/sources/

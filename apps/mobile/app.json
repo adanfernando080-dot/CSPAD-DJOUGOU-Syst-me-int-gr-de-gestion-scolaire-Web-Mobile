@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "CSPAD Djougou",
+    "slug": "cspad-djougou",
+    "scheme": "cspad",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "platforms": ["ios", "android"],
+    "ios": { "bundleIdentifier": "bj.cspad.djougou", "supportsTablet": true },
+    "android": { "package": "bj.cspad.djougou" },
+    "plugins": ["expo-router", "expo-status-bar"],
+    "experiments": { "typedRoutes": true }
+  }
+}
